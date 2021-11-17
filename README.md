@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/marimachadox">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marimachadox&show_icons=true&hide_border=true&bg_color=8187dctext_color=FFFFFF&title_color=FFFFFF&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marimachadox&show_icons=true&hide_border=true&bg_color=004C8E&icon_color=E05D2A&text_color=FFFFFF&title_color=FFFFFF&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimachadox&layout=compact&hide_border=true&bg_color=004C8E&title_color=FFFFFF&text_color=FFFFFF&langs_count=7&"/>
 </div>
   
