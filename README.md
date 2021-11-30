@@ -1,14 +1,15 @@
 ## Eu sou Mariana =) 
-<img align="right" width="200" src="https://media0.giphy.com/media/u9WqNlTkkIG8CvZEUn/giphy.gif?cid=ecf05e47t7gf9klt24tow4gd0j3772ewy0afgzzxbntcodji&rid=giphy.gif&ct=g"/>
+Hello World,
 
-Hello World, 
+<img align="center" width="300" src="https://media0.giphy.com/media/u9WqNlTkkIG8CvZEUn/giphy.gif?cid=ecf05e47t7gf9klt24tow4gd0j3772ewy0afgzzxbntcodji&rid=giphy.gif&ct=g"/>
 
-Tenho 25 anos e atualmente resido no Rio de Janeiro, sou Bacharel em Direito pela Universidade Estácio de Sá (UNESA), mas atualmente estou em transição de carreira para a àrea do Desenvolvimento Full Stack. 
-Considero que cursar Direito foi muito importante para o meu desenvolvimento como cidadã e pessoa, me transformando em uma pessoa mais atenta, crítica e ligada em causas sociais. Durante o curso tive oportunidade de estagiar junto ao Tribunal de Justiça do Rio de Janeiro e na Defensoria Pública, oportunidade esta que me fez ganhar senso de responsabilidade, empatia e inteligência emocional e produtividade. 
-Porém, sentia que a área jurídica não estava deixando explorar e desenvolver outras habilidades que sempre fizeram parte da minha vida, estava sentindo que meu lado criativo estava sendo deixado de lado e que eu estava cada vez mais presa ao que outras pessoas esperavam de mim como profissional do Direito. 
-Assim, juntei minha coragem, misturei com toda a curiosidade que tenho dentro de mim e somei com meu lado criativo e decidi virar uma Desenvolvedora Full Stack! Usei o ano de 2021 para iniciar meus estudos e me inscrevi no processo seletivo da Resilia Educação, onde consegui uma vaga para turma T7. 
-Durante o bootcamp estou aprendendo habilidades tech: HTML/CSS, JavaScript, SQL, React, Rest API e Metodologias Ágeis. E fortificando cada vez mais minhas habilidades soft. 
-Espero poder mesclar as habilidades que adquiri na área jurídica com as habilidades que estou aprimorando atualmente e que isso me ajude a achar minha primeira área tech!!!
+📍  Rio de Janeiro, RJ
+📚 Tenho um perfil ativo no wattpad com mais de 300k de leituras
+🎓 Bacharel em Direito 
+💻 Desenvolvedora Web Full Stack
+🚧 Quero desenvolver minhas habilidades tech, gostaria de fazer uma colab e compartilhar conhecimento?! =)
+🍩 Tenho em mim todos os sonhos do mundo!
+
 
 
 <div align="center">
