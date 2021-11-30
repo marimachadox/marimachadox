@@ -5,7 +5,7 @@ Hello World,
 
 📍  Rio de Janeiro, RJ\
 📚 Tenho um perfil ativo no wattpad com mais de 300k de leituras\
-🎓 Bacharel em Direito\ 
+🎓 Bacharel em Direito\
 💻 Desenvolvedora Web Full Stack\
 🚧 Quero desenvolver minhas habilidades tech, gostaria de fazer uma colab e compartilhar conhecimento?! =)\
 🍩 Tenho em mim todos os sonhos do mundo!
