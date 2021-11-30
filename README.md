@@ -3,12 +3,12 @@ Hello World,
 
 <img align="center" width="300" src="https://media0.giphy.com/media/u9WqNlTkkIG8CvZEUn/giphy.gif?cid=ecf05e47t7gf9klt24tow4gd0j3772ewy0afgzzxbntcodji&rid=giphy.gif&ct=g"/>
 
-📍  Rio de Janeiro, RJ
-📚 Tenho um perfil ativo no wattpad com mais de 300k de leituras
-🎓 Bacharel em Direito 
-💻 Desenvolvedora Web Full Stack
-🚧 Quero desenvolver minhas habilidades tech, gostaria de fazer uma colab e compartilhar conhecimento?! =)
-🍩 Tenho em mim todos os sonhos do mundo!
+📍  Rio de Janeiro, RJ\
+📚 Tenho um perfil ativo no wattpad com mais de 300k de leituras\
+🎓 Bacharel em Direito\ 
+💻 Desenvolvedora Web Full Stack\
+🚧 Quero desenvolver minhas habilidades tech, gostaria de fazer uma colab e compartilhar conhecimento?! =)\
+🍩 Tenho em mim todos os sonhos do mundo!\
 
 
 
