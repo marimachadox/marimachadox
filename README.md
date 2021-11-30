@@ -8,7 +8,7 @@ Hello World,
 🎓 Bacharel em Direito\ 
 💻 Desenvolvedora Web Full Stack\
 🚧 Quero desenvolver minhas habilidades tech, gostaria de fazer uma colab e compartilhar conhecimento?! =)\
-🍩 Tenho em mim todos os sonhos do mundo!\
+🍩 Tenho em mim todos os sonhos do mundo!
 
 
 
