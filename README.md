@@ -1,26 +1,70 @@
-## Eu sou Mariana =) 
-Hello World,
+# Olá, eu sou a Mariana! 👋
 
-<img align="center" width="300" src="https://media0.giphy.com/media/u9WqNlTkkIG8CvZEUn/giphy.gif?cid=ecf05e47t7gf9klt24tow4gd0j3772ewy0afgzzxbntcodji&rid=giphy.gif&ct=g"/>
+<div align="center">
+  <img width="300" src="https://media0.giphy.com/media/u9WqNlTkkIG8CvZEUn/giphy.gif?cid=ecf05e47t7gf9klt24tow4gd0j3772ewy0afgzzxbntcodji&rid=giphy.gif&ct=g" alt="Coding GIF"/>
+</div>
 
-📍  Rio de Janeiro, RJ\
-🎓 Bacharel em Direito\
-💻 Analista de Qualidade\
-🚧 Quero desenvolver minhas habilidades tech, gostaria de fazer uma colab e compartilhar conhecimento?! =)\
-🍩 Tenho em mim todos os sonhos do mundo!
+### 📌 Sobre Mim
 
+- 📍 **Localização:** Rio de Janeiro, RJ  
+- 🎓 **Formação:** Bacharel em Direito & Transição de Carreira para Tech  
+- 💻 **Atuação:** Analista de Qualidade de Software (QA)  
+- 🍩 *"Tenho em mim todos os sonhos do mundo!"*  
 
+---
+
+### 🔭 Foco Atual & Interesses
+
+- 🎯 Atuando com **qualidade de software**, **testes de API** e **automação**
+- 🌱 Estudando novas ferramentas, frameworks de testes e boas práticas de desenvolvimento
+- 👯 Aberta a **colaborações, projetos open-source e trocas de conhecimento**!
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <!-- QA & Testes -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Newman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  
+  <!-- DevOps & Gestão -->
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <!-- Linguagens & Ambientes -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/marimachadox">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marimachadox&show_icons=true&hide_border=true&bg_color=004C8E&icon_color=E05D2A&text_color=FFFFFF&title_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimachadox&layout=compact&hide_border=true&bg_color=004C8E&title_color=FFFFFF&text_color=FFFFFF&langs_count=7&"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marimachadox&show_icons=true&hide_border=true&bg_color=004C8E&icon_color=E05D2A&text_color=FFFFFF&title_color=FFFFFF&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/marimachadox">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimachadox&layout=compact&hide_border=true&bg_color=004C8E&title_color=FFFFFF&text_color=FFFFFF&langs_count=7" alt="Linguagens Mais Usadas" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/marimachadox">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=marimachadox&hide_border=true&background=004C8E&ring=E05D2A&fire=E05D2A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
 </div>
-  
-  <h2 align="center"> Contato: </h2>
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/marianamachado9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://t.me/snixxgron"><img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white></a>
-  </div>
 
+---
+
+<h2 align="center">📬 Vamos nos conectar?</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marianamachado9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/snixxgron" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
