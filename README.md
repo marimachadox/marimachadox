@@ -39,22 +39,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/marimachadox">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marimachadox&show_icons=true&hide_border=true&bg_color=004C8E&icon_color=E05D2A&text_color=FFFFFF&title_color=FFFFFF&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/marimachadox">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimachadox&layout=compact&hide_border=true&bg_color=004C8E&title_color=FFFFFF&text_color=FFFFFF&langs_count=7" alt="Linguagens Mais Usadas" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/marimachadox">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=marimachadox&hide_border=true&background=004C8E&ring=E05D2A&fire=E05D2A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-  </a>
-</div>
 
 ---
 
